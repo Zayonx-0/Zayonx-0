@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zayonx, a French 18 years old student from France !
+- ❤️ I'm passionate about aeronautics, scuba diving, astronomy and I love to ride my bike !
+- 👀 I'm always up to discover and learn about pretty much anything, being the very curious human that I am !
+- 🌱 I’m currently learning C, C++ and I have solid bases on Javascript, Python and Arduino. 
