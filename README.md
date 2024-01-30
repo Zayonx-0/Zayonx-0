@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zayonx, a French 19 years old student !
-- ❤️ I'm passionate about aeronautics, scuba diving, astronomy and mostly motorcycles.
+- 👋 Hi, I’m @Zayonx, a French 20 years old student !
+- ❤️ I'm passionate about aeronautics, scuba diving, astronomy, but I'm mainly about riding bikes.
 - 👀 I'm always up to discover and learn about pretty much anything, being the very curious human that I am !
 - 🌱 C++, C, Arduino, Python, nodeJS
